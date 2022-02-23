@@ -47,6 +47,7 @@ microsoft.critical.update.adafel.info
 nhs-omicron-pcr.com
 office365studentsverificationportal.netlify.app
 onfiltre.com.tr
+onesecondservice.com
 oracleservice.top
 pam-beesly.site
 paradise1009.net
